@@ -2,7 +2,89 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28440be2-58c3-4d96-b96e-47026b1d9275" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.generators" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/hello_app.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Rakefile" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/config/manifest.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/cable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/channels/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/channels/application_cable/channel.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/channels/application_cable/connection.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/concerns/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/jobs/application_job.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/mailers/application_mailer.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/models/application_record.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/models/concerns/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/mailer.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/mailer.text.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/bundle" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/rails" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/rake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/setup" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/spring" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/update" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/yarn" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config.ru" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/application.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/boot.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/cable.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/database.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/environment.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/environments/development.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/environments/test.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/application_controller_renderer.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/assets.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/cookies_serializer.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/filter_parameter_logging.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/inflections.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/mime_types.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/locales/en.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/puma.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/routes.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/secrets.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/spring.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/seeds.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/assets/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/tasks/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/log/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/404.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/422.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/500.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon-precomposed.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/robots.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/application_system_test_case.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/controllers/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/files/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/helpers/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/integration/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/mailers/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/models/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/system/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/test_helper.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tmp/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/.keep" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -260,12 +342,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517971383250</updated>
-      <workItem from="1517971385532" duration="1462000" />
+      <workItem from="1517971385532" duration="1644000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1462000" />
+    <option name="totallyTimeSpent" value="1644000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
